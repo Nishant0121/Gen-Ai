@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+reportlab
+langgraph
+requests
+python-dotenv
+google-generativeai
